@@ -66,12 +66,6 @@
 		clone-depth="1"/>
 
 	<project
-		path="packages/resources/devicesettings"
-		name="packages_resources_devicesettings"
-		remote="pixel"
-		clone-depth="1"/>
-
-	<project
 		path="device/qcom/common"
 		name="device_qcom_common"
 		remote="pixel-devices"
