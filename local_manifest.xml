@@ -107,11 +107,5 @@
 		remote="pixel"
 		clone-depth="1"/>
 
-	<project
-		path="vendor/qcom/opensource/commonsys/dpm"
-		name="vendor_qcom_opensource_commonsys_dpm"
-		remote="pixel"
-		clone-depth="1"/>
-
 </manifest>
 
