@@ -4,7 +4,7 @@
 
 	<remote
 		name="mobxv"
-		fetch="https://github.com/mobxv"
+		fetch="https://github.com/yuuriiv"
 		revision="thirteen"/>
 
 	<remote
@@ -111,6 +111,12 @@
 		path="device/xiaomi/sm6225-common-miuicamera"
 		name="device_xiaomi_sm6225-common-miuicamera"
 		remote="pixel-devices"
+		clone-depth="1"/>
+
+	<project
+		path="vendor/xiaomi/sm6225-common-miuicamera"
+		name="vendor_xiaomi_sm6225-common-miuicamera"
+		remote="pixel-devices-blobs"
 		clone-depth="1"/>
 
 </manifest>
